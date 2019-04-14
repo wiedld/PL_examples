@@ -3,7 +3,7 @@
 *)
 
 
-(**** provided datatypes (contraints) ****)
+(**** provided datatypes (constraints) ****)
 exception NoAnswer
 
 (* Syntatic *)
